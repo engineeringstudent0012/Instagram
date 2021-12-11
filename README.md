@@ -1,4 +1,4 @@
-To Run This Go To The Terminal ANd Type npm run dev
+To Run This Go To The Terminal Amd Type npm run dev
 
 Go To google firebase for storage and google cloud platform for credentials.
 
